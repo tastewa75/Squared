@@ -1,0 +1,6 @@
+# Squared
+for number in [12, 10, 32, 3, 66, 17, 42, 99, 20]:
+    squaredNumber = number * number
+
+    print("The number is ",number)
+    print("The number squared is ",squaredNumber)
